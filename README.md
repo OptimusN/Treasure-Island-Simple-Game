@@ -4,4 +4,4 @@ The purpose for this activity is practicing and learning (if/elif/else) + (multi
 Programing language: Python 
 Draw-art: https://ascii.co.uk/art. 
 
-`<object data="myfile.pdf" width="1000" height="1000" type='application/pdf'/>`
+`<object data="myfile.pdf" width="1000" height="1000" type='Treasure+Island+Flowchart+(pdf)/pdf'/>`
